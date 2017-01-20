@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">  
+<properties>  
+	<comment>IK Analyzer 扩展配置</comment>
+	<!--用户可以在这里配置自己的扩展字典 
+	<entry key="ext_dict">ext.dic;</entry> 
+	-->
+	<!--用户可以在这里配置自己的扩展停止词字典-->
+	<entry key="ext_stopword">stopword.dic;</entry> 
+	<entry key="ext_main2015">main2015.dic;</entry>
+	<entry key="ext_brand_ext">brand_ext.dic;</entry> 
+	<entry key="ext_color_ext">color_ext.dic;</entry>
+	<entry key="ext_ext">ext.dic;</entry> 
+	<entry key="ext_material_ext">material_ext.dic;</entry>
+	<entry key="ext_product_ext">product_ext.dic;</entry> 
+	<entry key="ext_style_ext">style_ext.dic;</entry>
+</properties>
